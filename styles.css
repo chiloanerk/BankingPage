@@ -143,6 +143,7 @@ nav li a {
     border-bottom-right-radius: 30px;
     text-align: center;
     transition: transform, ease-in-out 400ms;
+    padding-top: 10px;
 }
 .products div i {
     font-size: 4em;
